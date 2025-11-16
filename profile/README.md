@@ -1,15 +1,13 @@
-# Bienvenido a Argelion Stuff 👋
+Welcome to Argelion Stuff 👋
 
-¡Hola! Esta es la organización **Argelion Stuff**, un espacio dedicado a proyectos y desarrollo de software.
+Hello! This is the Argelion Stuff organization, a space dedicated to software projects and development.
 
-## 🚀 Sobre Nosotros
+🚀 About Us
 
-Argelion Stuff es una organización donde desarrollo y comparto diversos proyectos de programación.
+Argelion Stuff is an organization where I develop and share various programming projects.
 
-## 📫 Contacto
+📫 Contact
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarnos a través de los repositorios de la organización.
+If you have any questions or suggestions, feel free to reach out through the organization's repositories.
 
----
-
-¡Gracias por visitar Argelion Stuff!
+Thank you for visiting Argelion Stuff! 😎
