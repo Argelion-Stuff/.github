@@ -1,13 +1,15 @@
-Welcome to Argelion Stuff 👋
+#Welcome to Argelion Stuff 👋
 
 Hello! This is the Argelion Stuff organization, a space dedicated to software projects and development.
 
-🚀 About Us
+## 🚀 About Us
 
 Argelion Stuff is an organization where I develop and share various programming projects.
 
-📫 Contact
+## 📫 Contact
 
 If you have any questions or suggestions, feel free to reach out through the organization's repositories.
 
 Thank you for visiting Argelion Stuff! 😎
+
+[![Discord](https://img.shields.io/discord/1427328141671665757?label=Discord&logo=discord)](https://discord.gg/BjYN5Zm9)
