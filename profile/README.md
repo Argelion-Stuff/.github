@@ -12,4 +12,7 @@ If you have any questions or suggestions, feel free to reach out through the org
 
 Thank you for visiting Argelion Stuff!
 
-[![Discord](https://img.shields.io/discord/1427328141671665757?label=Discord&logo=discord)](https://discord.gg/BjYN5Zm9)
+![Discord](https://img.shields.io/discord/1427328141671665757?style=flat&logoColor=%232B2B2D&label=Discord&color=%23566AF6&link=https%3A%2F%2Fdiscord.gg%2FdEZb27Kr)
+
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
+
